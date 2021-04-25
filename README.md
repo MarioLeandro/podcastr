@@ -11,7 +11,7 @@
 <span><a href="https://imgur.com/XauCT2x"><img src="https://i.imgur.com/XauCT2x.png" title="source: imgur.com" width="450px"/></a></span>
 
 # 🌐 Deploy Website
-👉 Website: https://move-it-ruddy.vercel.app/
+👉 Website: https://podcastr-marioleandro.vercel.app/
 
 # 🛠 Technologies
 
